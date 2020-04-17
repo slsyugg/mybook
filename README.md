@@ -1,3 +1,8 @@
-# My Awesome Book
+# 杭州市胜利实验学校   IT手册
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+各位老师：
+
+随着学校数字化校园建设的推进，各类信息平台层出不穷，虽然我们一直在努力打破信息孤岛，实现数字流的顺畅，但技术的迭代和需求的不断更新是常态，我们必须持续面临新的挑战。
+
+
+
