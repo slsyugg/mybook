@@ -1,12 +1,12 @@
 # 校园网平台
 
-##一、校园网域名：[www.sl1599.cn](/www.sl1599.com)   [ www.sl1599.com](/www.sl1599.com)
+## 一、校园网域名：[www.sl1599.cn](/www.sl1599.com)   [ www.sl1599.com](/www.sl1599.com)
 
 这是学校的门户网站，发布对外信息。
 
 ![](/assets/QQ截图20200417103850.png)
 
-二、校园办公平台    :[http://bg.sl1599.com/](http://bg.sl1599.com/)
+\#\#二、校园办公平台    :[http://bg.sl1599.com/](http://bg.sl1599.com/)
 
 1.办公平台登录
 
