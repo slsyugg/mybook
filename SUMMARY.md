@@ -10,6 +10,14 @@
 * [小海燕电视台](di-san-zhang-xiao-hai-yan-dian-shi-tai.md)
 * [微信公众号](di-wu-zhang-wei-xin-gong-zhong-hao.md)
 * [校园录播系统](di-liu-zhang-lu-bo-xi-tong.md)
+  * [二楼录播室](di-liu-zhang-lu-bo-xi-tong/er-lou-lu-bo-shi.md)
+  * 一楼观摩教室
 * [分项等级评价系统](fen-xiang-deng-ji-ping-jia-xi-tong.md)
 * [建议你了解一下的几个平台](di-liu-zhang-bi-xu-le-jie-de-ji-ge-ping-tai.md)
+* [电教设备通识培训](dian-jiao-she-bei-tong-shi-pei-xun.md)
+  * [认识一下各种线](dian-jiao-she-bei-tong-shi-pei-xun/ren-shi-yi-xia-ge-zhong-xian.md)
+  * [观摩教室使用须知](dian-jiao-she-bei-tong-shi-pei-xun/guan-mo-jiao-shi-shi-yong-xu-zhi.md)
+* [简易录音棚](jian-yi-lu-yin-peng.md)
+  * 操作指南
+  * 软件教程
 
