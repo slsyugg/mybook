@@ -42,31 +42,9 @@
 
 ![](/assets/ftp12.png)
 
-操作起来会很不方便，解决方案请看第四种方法。
+操作起来会很不方便，解决方案请看第3种方法。
 
-### 方法3：软件登录（建议）
-
-ftp软件有很多，大家可以在网上寻找喜欢的工具。下面给出两个建议：
-
-win系统下，建议使用flashfxp作为常用ftp工具。
-
-flashfxp下载链接：https://pan.baidu.com/s/1rN0ey4DPxPr41PILlbTXDA 
-
-提取码：opbp
-
-信息组录制了flash的相关使用教程，可以在FTP/寒假作业专区/技术培训目录中找到。
-
-
-
-mac系统下，建议使用FileZilla\_hui
-
-链接：https://pan.baidu.com/s/1HQMD-R03e-cWlNLe-LAw5w 
-
-提取码：smk7
-
-
-
-### 方法4：浏览器登录
+### 方法3：浏览器登录
 
 #### 【win7系统】
 
