@@ -34,11 +34,37 @@
 
 ### 方法2：“运行”登录
 
-按住键盘上   win+r键，打开“运行”对话框，（win键就是窗户图标那个，一般在crtl和alt键中间）
+按住键盘上   win+r键，打开“运行”对话框，（win键就是窗户图标那个，一般在crtl和alt键中间）,输入ftp的地址,即可打开ftp。
+
+![](/assets/ftp11.png)
+
+但你见到的可能是下面这种样子：
+
+![](/assets/ftp12.png)
+
+操作起来会很不方便，解决方案请看第四种方法。
+
+### 方法3：软件登录（建议）
+
+ftp软件有很多，大家可以在网上寻找喜欢的工具。下面给出两个建议：
+
+win系统下，建议使用flashfxp作为常用ftp工具。
+
+flashfxp下载链接：https://pan.baidu.com/s/1rN0ey4DPxPr41PILlbTXDA 
+
+提取码：opbp
+
+信息组录制了flash的相关使用教程，可以在FTP/寒假作业专区/技术培训目录中找到。
 
 
 
-### 方法3：软件登录
+mac系统下，建议使用FileZilla\_hui
+
+链接：https://pan.baidu.com/s/1HQMD-R03e-cWlNLe-LAw5w 
+
+提取码：smk7
+
+
 
 ### 方法4：浏览器登录
 
@@ -56,8 +82,6 @@
 
 ![](/assets/ftp7.png)
 
-
-
 #### 【win10系统】
 
 1、打开我的电脑，选择“网络”，选择“网络和共享中心”，选择弹出窗口的“网络和共享中心”，选择"Internet选项"
@@ -71,10 +95,6 @@
 3、在“我的电脑”访问“ftp路径”，即可。
 
 ![](/assets/ftp10.png)
-
-
-
-
 
 ## 
 
