@@ -7,7 +7,6 @@
   * [成绩录入](chapter1/cheng-ji-lu-ru.md)
 * [ FTP服务](di-er-zhang-ftp-fu-wu.md)
   * [常用FTP软件](di-er-zhang-ftp-fu-wu/chang-yong-ftp-ruan-jian.md)
-  * [校内公用账号](di-er-zhang-ftp-fu-wu/xiao-nei-gong-yong-zhang-hao.md)
 * [小海燕电视台](di-san-zhang-xiao-hai-yan-dian-shi-tai.md)
 * [微信公众号](di-wu-zhang-wei-xin-gong-zhong-hao.md)
 * [校园录播系统](di-liu-zhang-lu-bo-xi-tong.md)
