@@ -11,7 +11,7 @@
 * [微信公众号](di-wu-zhang-wei-xin-gong-zhong-hao.md)
 * [校园录播系统](di-liu-zhang-lu-bo-xi-tong.md)
   * [二楼录播室](di-liu-zhang-lu-bo-xi-tong/er-lou-lu-bo-shi.md)
-  * 一楼观摩教室
+  * [一楼观摩教室](di-liu-zhang-lu-bo-xi-tong/yi-lou-guan-mo-jiao-shi.md)
 * [分项等级评价系统](fen-xiang-deng-ji-ping-jia-xi-tong.md)
 * [建议你了解一下的几个平台](di-liu-zhang-bi-xu-le-jie-de-ji-ge-ping-tai.md)
 * [电教设备通识培训](dian-jiao-she-bei-tong-shi-pei-xun.md)
