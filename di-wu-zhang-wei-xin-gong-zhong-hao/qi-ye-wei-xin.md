@@ -4,23 +4,25 @@
 
 1.每天早上7:00，会通过微信自动推送填报提醒给每位家长。如下图箭头所示：
 
-![](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml3436\wps1.jpg)
+![](/assets/wx1.png)
 
 2.微信会自动跳转到我校企业微信目录
 
-![](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml3436\wps2.jpg)![](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml3436\wps3.jpg)
+![](/assets/wx2.png)
 
 【注意】学校后台已经导入了所有家长的手机号，如果看不到该消息，请通过【企业微信-我-设置-切换身份】切换到我校账号。
 
-![](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml3436\wps4.jpg)
+
+
+![](/assets/wx3.png)
 
 3.点击《学生健康状况每日上报》链接后，在打开的问卷页面中完成提交。
 
-![](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml3436\wps5.jpg)
+![](/assets/wx4.png)
 
 4.请各位家长在每天7:30之前完成数据上报工作，感谢大家的配合！
 
-![](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml3436\wps6.jpg)
+![](/assets/wx5.png)
 
 ## 二、学生在校健康状况每日午检上报（班主任填写）
 
