@@ -11,7 +11,10 @@
 * [校园录播系统](di-liu-zhang-lu-bo-xi-tong.md)
   * [一楼观摩教室](di-liu-zhang-lu-bo-xi-tong/yi-lou-guan-mo-jiao-shi.md)
   * [二楼录播室](di-liu-zhang-lu-bo-xi-tong/er-lou-lu-bo-shi.md)
+  * [简易录音棚](di-liu-zhang-lu-bo-xi-tong/jian-yi-lu-yin-peng.md)
 * [分项等级评价系统](fen-xiang-deng-ji-ping-jia-xi-tong.md)
+* [移动课堂先锋队](yi-dong-ke-tang-xian-feng-dui.md)
 * [学校常用的几个平台](chang-yong-de-ping-tai.md)
-* [应该了解的几个平台](di-liu-zhang-bi-xu-le-jie-de-ji-ge-ping-tai.md)
+* [应该了解的几个优秀应用](di-liu-zhang-bi-xu-le-jie-de-ji-ge-ping-tai.md)
+* [推荐几个宝藏级软件](zhi-de-zhang-wo-de-ji-ge-ruan-jian.md)
 
