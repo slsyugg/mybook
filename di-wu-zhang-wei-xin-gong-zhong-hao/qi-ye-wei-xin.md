@@ -18,13 +18,11 @@
 
 ![](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml3436\wps5.jpg)
 
-4.请各位家长在每天7:00之前完成数据上报工作，感谢大家的配合！
+4.请各位家长在每天7:30之前完成数据上报工作，感谢大家的配合！
 
 ![](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml3436\wps6.jpg)
 
 ## 二、学生在校健康状况每日午检上报（班主任填写）
 
 班主任需要在每天中午11:55之前完成在校午检上报工作。操作方法与家长上报流程一致。也是通过企业微信每天中午向班主任发布填写提醒，请班主任们关注相关通知。
-
-
 
