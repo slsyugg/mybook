@@ -14,11 +14,11 @@
 
 近年来，基于ipad的教学应用程序如雨后春笋般冒出来。毋庸置疑，未来已来。教育技术的进步正以前所未有的速度在我们面前铺展开。学校日常所面临的各种工作，都有与之匹配的优秀应用存在，不管你用不用，它都在那里。下图为焦建利教授所整理的The padagogy轮，介绍了从识记、理解、应用到分析、评价、创造各个领域的优秀app。
 
-![](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml5280\wps1.jpg)
+![](/assets/xfd1.png)
 
 在STEM教育盛行的当下，我们也可以看到针对STEM教育的应用元素周期表：
 
-![](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml5280\wps2.jpg)
+![](/assets/xfd2.png)
 
 在此背景下，对移动课堂的教学探索，势在必行！
 
@@ -49,7 +49,9 @@
 
 通过umu在线微课的形式，进行成果微课的推广。对于微课，要求从实践的实践的视角出发，介绍一款应用在教学中的一种具体使用方式。
 
-![](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml5280\wps3.jpg)微课分享地址：[www.umu.cn](http://www.umu.cn/)，输入课程访问码：bq8045，
+![](/assets/xfd4.png)
+
+微课分享地址：[www.umu.cn](http://www.umu.cn/)，输入课程访问码：bq8045，
 
 也可扫描右侧二维码打开。
 
@@ -57,7 +59,7 @@
 
 ## （一）积累了一批案例微课
 
-![](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml5280\wps4.jpg)
+![](/assets/xfd5.png)
 
 先锋队活动已经持续了一年，如下图所示，在这一年中，我们共发布了微课42节，内容涵盖三十余种教学用APP。吸引了1667位来自全国各地的老师参与学习，微课播放量达4000余人次。
 
