@@ -4,7 +4,7 @@
 
 ## photoshop：
 
-修图神器
+鼻祖级修图神器
 
 ## camtasia：
 
