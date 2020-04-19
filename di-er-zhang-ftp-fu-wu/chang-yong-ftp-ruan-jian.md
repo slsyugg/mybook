@@ -10,21 +10,11 @@ flashfxp下载链接：[https://pan.baidu.com/s/1rN0ey4DPxPr41PILlbTXDA](https:/
 
 提取码：opbp
 
-
-
-
-
-信息组录制了flash的相关使用教程，可以在FTP/寒假作业专区/技术培训目录中找到。
+信息组录制了flashfxp的相关使用教程，可以在FTP/寒假作业专区/技术培训目录中找到。
 
 mac系统下，建议使用FileZilla\_hui，（英语组亲测有效）
 
 链接：[https://pan.baidu.com/s/1HQMD-R03e-cWlNLe-LAw5w](https://pan.baidu.com/s/1HQMD-R03e-cWlNLe-LAw5w)
 
 提取码：smk7
-
-
-
-
-
-
 
