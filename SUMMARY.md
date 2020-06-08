@@ -18,6 +18,7 @@
 * [小海燕电视台](di-san-zhang-xiao-hai-yan-dian-shi-tai.md)
 * [微信公众号](di-wu-zhang-wei-xin-gong-zhong-hao.md)
   * [通过企业微信上报健康状态](di-wu-zhang-wei-xin-gong-zhong-hao/qi-ye-wei-xin.md)
+  * [通过服务号开展选课的方法](di-wu-zhang-wei-xin-gong-zhong-hao/tong-guo-fu-wu-hao-kai-zhan-xuan-ke-de-fang-fa.md)
 * [移动课堂先锋队](yi-dong-ke-tang-xian-feng-dui.md)
 * [校园录播系统](di-liu-zhang-lu-bo-xi-tong.md)
   * [一楼观摩教室](di-liu-zhang-lu-bo-xi-tong/yi-lou-guan-mo-jiao-shi.md)
