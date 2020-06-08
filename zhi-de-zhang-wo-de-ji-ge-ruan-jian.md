@@ -38,13 +38,19 @@ ftp上传下载工具
 
 安利给大家，买了会员之后，现在已经卸载了office全家桶了。
 
-![](/assets/wps.png)
+## ![](/assets/wps.png)
+
+## 杀毒软件：火绒安全
+
+没有弹窗，没有全家桶，没有推送，总之，安装了它，世界都清静了。
+
+## 播放器：potplayer
+
+最干净好用的播放器。
+
+
 
 ---
 
-以上所有软件，可以在这里下载：
-
-链接：[https://pan.baidu.com/s/1CHQ7PU5aX-i38FHOpz\_dBQ](https://pan.baidu.com/s/1CHQ7PU5aX-i38FHOpz_dBQ)
-
-提取码：u4dd
+以上软件，在学校FTP/软件下载 专区中，可以找到。
 
