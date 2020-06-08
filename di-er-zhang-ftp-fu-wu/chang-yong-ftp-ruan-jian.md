@@ -4,7 +4,7 @@
 
 ftp软件有很多，大家可以在网上寻找喜欢的工具。下面给出两个建议：
 
-win系统下，建议使用flashfxp作为常用ftp工具。这款软件和动画制作软件flash没有半毛钱关系。
+win系统下，建议使用flashfxp作为常用ftp工具。这款软件和动画制作软件flash没有一点关系。
 
 flashfxp下载链接：[https://pan.baidu.com/s/1rN0ey4DPxPr41PILlbTXDA](https://pan.baidu.com/s/1rN0ey4DPxPr41PILlbTXDA)
 
