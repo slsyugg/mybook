@@ -10,6 +10,8 @@
   * [教师：教科研成果管理](chapter1/jiao-shi-ff1a-jiao-ke-yan-cheng-guo-guan-li.md)
   * [教师：车辆预约](chapter1/jiao-shi-ff1a-che-liang-yu-yue.md)
   * [教师：成绩录入](chapter1/jiao-shi-ff1a-cheng-ji-lu-ru.md)
+  * [教师获奖信息登记录入](chapter1/jiao-shi-huo-jiang-xin-xi-deng-ji-lu-ru.md)
+  * [教师个人信息完善](chapter1/jiao-shi-ge-ren-xin-xi-wan-shan.md)
 * [ FTP服务](di-er-zhang-ftp-fu-wu.md)
   * [常用FTP软件](di-er-zhang-ftp-fu-wu/chang-yong-ftp-ruan-jian.md)
 * [无线网络漫游](wu-xian-wang-luo-man-you.md)
