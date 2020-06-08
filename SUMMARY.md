@@ -26,7 +26,7 @@
   * [杭州家校](chang-yong-de-ping-tai/hang-zhou-jia-xiao.md)
   * [华海教育](chang-yong-de-ping-tai/hua-hai-jiao-yu.md)
   * [杭州市学校安全教育平台](chang-yong-de-ping-tai/hang-zhou-shi-xue-xiao-an-quan-jiao-yu-ping-tai.md)
-  * 杭州市学校症状监测系统
+  * [杭州市学校症状监测系统](chang-yong-de-ping-tai/hang-zhou-shi-xue-xiao-zheng-zhuang-jian-ce-xi-tong.md)
 * [应该了解的几个优秀应用](di-liu-zhang-bi-xu-le-jie-de-ji-ge-ping-tai.md)
 * [推荐几个宝藏级软件](zhi-de-zhang-wo-de-ji-ge-ruan-jian.md)
 
