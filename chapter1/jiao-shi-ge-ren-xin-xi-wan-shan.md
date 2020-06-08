@@ -14,13 +14,21 @@
 
 ![](/assets/jiangli-2.png)
 
-基本信息：
+基本信息：教师编号先空着。
 
 ---
 
 ![](/assets/jiangli2.png)
 
-## ![](/assets/xiangxixinxi .png)
+通讯信息：全部填写
+
+---
+
+#### ![](/assets/xiangxixinxi .png)详细信息：全部填写。
+
+#### 重点提示：请上传个人照片。本照片将会在外网首页滚动播放。
+
+---
 
 
 
