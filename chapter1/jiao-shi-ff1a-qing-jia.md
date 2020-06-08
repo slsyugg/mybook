@@ -6,7 +6,3 @@
 
 
 
-
-
-![](/assets/baoxiu1.png)
-
